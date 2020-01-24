@@ -2140,3 +2140,203 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-01.12.49:060][420]LogFileHelpers: Saving map 'level1' took 0.258
 [2020.01.24-01.12.49:080][420]AssetCheck: New page: Asset Save: level1
 [2020.01.24-01.12.49:080][420]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-01.18.27:996][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-01.18.28:030][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.01.24-01.18.28:339][284]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1725DBF6E4CC4D305BC60068E1EA556FC.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-01.18.28:356][284]LogFileHelpers: Saving map 'level1' took 0.361
+[2020.01.24-01.18.28:375][284]AssetCheck: New page: Asset Save: level1
+[2020.01.24-01.18.28:375][284]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-01.18.29:050][324]LogSlate: Window 'level1' being destroyed
+[2020.01.24-01.18.29:057][324]LogSlate: Window 'level1' being destroyed
+[2020.01.24-01.18.29:058][324]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.18.29:058][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-01.20.44:977][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-01.20.46:932][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.24-01.20.49:044][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.21.39:719][ 44]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.24-01.22.53:955][446]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.23.49:708][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.23.59:859][365]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.24.30:801][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.25.14:885][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.25.17:654][ 17]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.24-01.27.22:906][489]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.27.29:527][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.27.31:558][  2]Cmd: TRANSACTION UNDO
+[2020.01.24-01.27.31:558][  2]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.24-01.27.32:552][ 45]Cmd: TRANSACTION UNDO
+[2020.01.24-01.27.32:552][ 45]LogEditorTransaction: Undo Set Location
+[2020.01.24-01.27.43:972][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.28.28:455][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.24-01.28.28:757][144]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto5A6F31C614C43D68C59E34FBAB7750CD5.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto5.umap'
+[2020.01.24-01.28.28:760][144]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.351
+[2020.01.24-01.28.28:760][144]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.351
+[2020.01.24-01.32.54:724][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.32.55:746][899]Cmd: TRANSACTION UNDO
+[2020.01.24-01.32.55:746][899]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.24-01.32.56:567][931]Cmd: TRANSACTION UNDO
+[2020.01.24-01.32.56:567][931]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.24-01.32.57:299][972]Cmd: TRANSACTION UNDO
+[2020.01.24-01.32.57:300][972]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.32.57:305][972]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.01.24-01.32.57:305][972]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.01.24-01.32.57:305][972]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.32.58:543][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.32.59:244][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.33.00:423][153]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
+[2020.01.24-01.33.01:232][197]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.33.11:834][829]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.33.13:940][944]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.01.24-01.33.13:940][944]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.01.24-01.33.13:941][944]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.01.24-01.33.13:961][944]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.33.15:958][ 57]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.01.24-01.33.15:958][ 57]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.01.24-01.33.15:958][ 57]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.01.24-01.33.15:979][ 58]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.33.18:176][178]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.01.24-01.33.18:176][178]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.01.24-01.33.18:176][178]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.01.24-01.33.18:193][179]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.33.20:096][287]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.01.24-01.33.20:097][287]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.01.24-01.33.20:097][287]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.01.24-01.33.20:119][288]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.34.06:982][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: 000001A673A60400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0624E5F5-4D76-E784-A781-4490BC3C3BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.0-10570792%2B%2B%2BUE4%2BRelease-4.24&UserID=45aa3f6b4ea62d8a393503a41c73563b%7C83cb30ddfa60407ea23969001730e5d5%7C265a2b0e-a9b8-4b7d-9986-b000c8f75372&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: 000001A673A60400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: 000001A673A60400: libcurl info message cache 0 (Connection 54 seems to be dead!)
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: 000001A673A60400: libcurl info message cache 1 (Closing connection 54)
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: 000001A673A60400: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: 000001A673A60400: libcurl info message cache 3 (Closing connection 55)
+[2020.01.24-01.34.17:151][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0624E5F5-4D76-E784-A781-4490BC3C3BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.0-10570792%2B%2B%2BUE4%2BRelease-4.24&UserID=45aa3f6b4ea62d8a393503a41c73563b%7C83cb30ddfa60407ea23969001730e5d5%7C265a2b0e-a9b8-4b7d-9986-b000c8f75372&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.24-01.36.17:206][695]LogHttp: Warning: 000001A6E7A34180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0624E5F5-4D76-E784-A781-4490BC3C3BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.0-10570792%2B%2B%2BUE4%2BRelease-4.24&UserID=45aa3f6b4ea62d8a393503a41c73563b%7C83cb30ddfa60407ea23969001730e5d5%7C265a2b0e-a9b8-4b7d-9986-b000c8f75372&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.24-01.36.17:206][695]LogHttp: Warning: 000001A6E7A34180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.01.24-01.36.17:206][695]LogHttp: Warning: 000001A6E7A34180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.01.24-01.36.17:206][695]LogHttp: Warning: 000001A6E7A34180: libcurl info message cache 1 (Closing connection 56)
+[2020.01.24-01.36.17:223][696]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0624E5F5-4D76-E784-A781-4490BC3C3BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.0-10570792%2B%2B%2BUE4%2BRelease-4.24&UserID=45aa3f6b4ea62d8a393503a41c73563b%7C83cb30ddfa60407ea23969001730e5d5%7C265a2b0e-a9b8-4b7d-9986-b000c8f75372&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.24-01.38.13:452][ 83]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.38.17:800][ 96]LogHttp: Warning: 000001A6E7A35080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0624E5F5-4D76-E784-A781-4490BC3C3BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.0-10570792%2B%2B%2BUE4%2BRelease-4.24&UserID=45aa3f6b4ea62d8a393503a41c73563b%7C83cb30ddfa60407ea23969001730e5d5%7C265a2b0e-a9b8-4b7d-9986-b000c8f75372&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.24-01.38.17:800][ 96]LogHttp: Warning: 000001A6E7A35080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.01.24-01.38.17:800][ 96]LogHttp: Warning: 000001A6E7A35080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.01.24-01.38.17:800][ 96]LogHttp: Warning: 000001A6E7A35080: libcurl info message cache 1 (Closing connection 57)
+[2020.01.24-01.38.17:800][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0624E5F5-4D76-E784-A781-4490BC3C3BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.0-10570792%2B%2B%2BUE4%2BRelease-4.24&UserID=45aa3f6b4ea62d8a393503a41c73563b%7C83cb30ddfa60407ea23969001730e5d5%7C265a2b0e-a9b8-4b7d-9986-b000c8f75372&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.24-01.38.19:123][ 99]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.01.24-01.38.29:255][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.24-01.38.29:477][127]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto6E9903D4B47E5B6499E50A492685FCD8C.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto6.umap'
+[2020.01.24-01.38.29:481][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.264
+[2020.01.24-01.38.29:481][127]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2020.01.24-01.40.45:289][186]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.01.24-01.41.37:546][297]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.41.42:709][603]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.42:709][603]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.41.56:472][402]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.56:472][402]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.41.56:476][402]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.24-01.41.56:476][402]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.01.24-01.41.56:476][402]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.41.56:827][412]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.56:827][412]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.24-01.41.57:247][431]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.57:247][431]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.24-01.41.57:705][458]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.57:705][458]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.41.58:131][482]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.58:131][482]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.41.58:571][504]Cmd: TRANSACTION UNDO
+[2020.01.24-01.41.58:571][504]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.42.02:279][720]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2020.01.24-01.42.17:352][621]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.24-01.42.17:352][621]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.42.30:559][408]LogEditorViewport: Clicking Background
+[2020.01.24-01.42.33:480][579]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.01.24-01.42.34:966][667]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.01.24-01.43.31:509][ 20]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.24-01.43.31:509][ 20]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.43.32:549][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.44.21:767][675]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2020.01.24-01.44.22:601][724]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2020.01.24-01.44.23:100][753]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2020.01.24-01.44.31:793][271]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.44.59:626][447]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.45.10:309][ 82]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.10:309][ 82]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.45.41:895][940]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.41:895][940]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.45.42:248][948]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.42:248][948]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.45.42:493][955]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.42:493][955]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.45.42:725][968]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.42:725][968]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.45.42:949][979]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.42:949][979]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.45.43:315][  0]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.43:315][  0]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.45.43:711][ 22]Cmd: TRANSACTION UNDO
+[2020.01.24-01.45.43:711][ 22]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.46.54:866][496]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.01.24-01.47.10:866][443]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.01.24-01.47.10:866][443]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.47.17:805][855]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.24-01.47.17:805][855]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.47.26:160][350]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.26:160][350]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.47.26:171][350]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.24-01.47.26:172][350]LogGeometryMode: Warning: Unable to resolve BoxBrush9 Brush in new BSP, see above
+[2020.01.24-01.47.26:172][350]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.47.26:463][356]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.26:463][356]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.24-01.47.27:108][384]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.27:109][384]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.47.27:914][429]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.27:914][429]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.47.28:323][453]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.28:323][453]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.47.28:330][453]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.01.24-01.47.28:330][453]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2020.01.24-01.47.28:330][453]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.47.28:650][471]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.28:651][471]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.24-01.47.30:319][566]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.30:320][566]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.47.30:634][583]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.30:634][583]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.47.30:946][599]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.30:946][599]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.24-01.47.31:491][630]Cmd: TRANSACTION UNDO
+[2020.01.24-01.47.31:491][630]LogEditorTransaction: Undo Move Actors
+[2020.01.24-01.47.42:308][275]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush9)
+[2020.01.24-01.47.57:734][199]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2020.01.24-01.47.57:734][199]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.24-01.47.59:124][281]Cmd: DELETE
+[2020.01.24-01.47.59:131][281]Cmd: ACTOR DELETE
+[2020.01.24-01.47.59:161][281]LogEditorActor: Deleted Actor: Brush
+[2020.01.24-01.47.59:192][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.24-01.47.59:209][281]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.01.24-01.48.00:306][346]Cmd: DELETE
+[2020.01.24-01.48.00:312][346]Cmd: ACTOR DELETE
+[2020.01.24-01.48.00:315][346]LogEditorActor: Deleted Actor: Brush
+[2020.01.24-01.48.00:347][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.01.24-01.48.00:351][346]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.01.24-01.48.01:434][410]Cmd: DELETE
+[2020.01.24-01.48.01:439][410]Cmd: ACTOR DELETE
+[2020.01.24-01.48.01:442][410]LogEditorActor: Deleted Actor: Brush
+[2020.01.24-01.48.01:472][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.24-01.48.01:477][410]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.01.24-01.48.06:731][720]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.01.24-01.48.07:330][755]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.01.24-01.48.11:723][ 14]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.01.24-01.48.12:671][ 70]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.01.24-01.49.24:580][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.01.24-01.49.24:783][866]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto71D24EF3642CDF833576DB5B388888BCC.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto7.umap'
+[2020.01.24-01.49.24:786][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.253
+[2020.01.24-01.49.24:786][866]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2020.01.24-01.51.37:400][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-01.51.41:595][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.24-01.51.41:636][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-01.51.41:668][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.01.24-01.51.41:874][586]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1E843DC1C432A405D4B74729D4CE23D87.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-01.51.41:898][586]LogFileHelpers: Saving map 'level1' took 0.262
+[2020.01.24-01.51.41:911][586]AssetCheck: New page: Asset Save: level1
+[2020.01.24-01.51.41:911][586]LogContentValidation: Display: Validating World /Game/level1.level1
