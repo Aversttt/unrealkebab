@@ -2086,3 +2086,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-00.21.15:262][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
 [2020.01.24-00.21.15:315][622]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2020.01.24-00.22.27:727][891]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
+[2020.01.24-00.28.59:852][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.24-00.29.00:130][813]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto207BB9CDB4E87AF3CDCB55DB6C18715E5.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto2.umap'
+[2020.01.24-00.29.00:179][813]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.384
+[2020.01.24-00.29.00:179][813]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.384
+[2020.01.24-00.35.38:805][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-00.35.38:842][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.01.24-00.35.39:012][438]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level12CA85D9A4530CA65A2A98DA7EB1B8F74.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-00.35.39:030][438]LogFileHelpers: Saving map 'level1' took 0.226
+[2020.01.24-00.35.39:049][438]AssetCheck: New page: Asset Save: level1
+[2020.01.24-00.35.39:049][438]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-00.39.42:088][983]LogEditorTransaction: Undo Add Node
+[2020.01.24-00.45.58:306][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.24-00.45.58:874][939]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto3EDDAE59B46BE1B02815BF49FCEC97C27.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto3.umap'
+[2020.01.24-00.45.58:942][939]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.680
+[2020.01.24-00.45.58:942][939]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.680
+[2020.01.24-00.52.05:858][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-00.52.05:892][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.01.24-00.52.06:068][383]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1F43B081E4E3CD82A6E6DBDB8BCBEE0A7.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-00.52.06:085][383]LogFileHelpers: Saving map 'level1' took 0.228
+[2020.01.24-00.52.06:104][383]AssetCheck: New page: Asset Save: level1
+[2020.01.24-00.52.06:104][383]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-00.52.09:004][557]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.52.09:009][557]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.52.09:012][557]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-00.52.09:012][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.52.25:650][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.24-00.52.37:746][188]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
+[2020.01.24-00.52.46:328][669]LogEditorTransaction: Undo Add New Function
+[2020.01.24-00.55.37:909][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-00.55.37:946][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.01.24-00.55.38:119][234]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level18FE1934A463FF6A386529CAA60650F07.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-00.55.38:137][234]LogFileHelpers: Saving map 'level1' took 0.228
+[2020.01.24-00.55.38:149][234]AssetCheck: New page: Asset Save: level1
+[2020.01.24-00.55.38:149][234]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-00.55.39:033][287]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.55.39:039][287]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.55.39:039][287]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-00.55.39:039][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.55.40:393][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-00.55.44:300][592]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
+[2020.01.24-01.03.58:306][401]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetStringLibrary::Conv_StringToFloat' [Nie można odnaleźć określonego modułu.]
+[2020.01.24-01.04.36:028][349]LogEditorTransaction: Undo Promote To Variable
+[2020.01.24-01.05.42:306][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.01.24-01.05.42:486][741]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto4A98748DA4716D8DB23C6E687C46C7A61.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto4.umap'
+[2020.01.24-01.05.42:489][741]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.220
+[2020.01.24-01.05.42:489][741]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2020.01.24-01.07.40:899][356]LogEditorTransaction: Undo Create Pin Link
+[2020.01.24-01.07.41:965][401]LogEditorTransaction: Undo Add Node
+[2020.01.24-01.12.48:803][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-01.12.48:841][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.24-01.12.49:043][420]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1E94FBEE84CD0A45CDEA75F91B559B0AA.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-01.12.49:060][420]LogFileHelpers: Saving map 'level1' took 0.258
+[2020.01.24-01.12.49:080][420]AssetCheck: New page: Asset Save: level1
+[2020.01.24-01.12.49:080][420]LogContentValidation: Display: Validating World /Game/level1.level1
