@@ -1908,3 +1908,181 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.23-23.48.33:653][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
 [2020.01.23-23.48.33:687][455]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2020.01.23-23.48.38:558][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.23-23.56.48:698][901]LogEditorViewport: Clicking on Actor (LMB): Actor (Ball)
+[2020.01.23-23.56.51:864][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-23.56.54:965][230]LogEditorViewport: Clicking on Actor (LMB): Actor (Ball)
+[2020.01.23-23.57.18:293][536]LogEditorViewport: Clicking on Actor (LMB): Actor (Ball)
+[2020.01.23-23.57.26:407][  4]Cmd: DELETE
+[2020.01.23-23.57.26:407][  4]Cmd: ACTOR DELETE
+[2020.01.23-23.57.26:409][  4]LogEditorActor: Deleted Actor: Actor
+[2020.01.23-23.57.26:464][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.01.23-23.57.26:471][  4]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.01.23-23.57.40:493][817]LogActorFactory: Actor Factory created Shape_Sphere
+[2020.01.23-23.57.41:210][859]LogActorFactory: Actor Factory created Shape_Sphere
+[2020.01.23-23.57.54:117][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-23.58.09:352][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-23.58.39:483][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-23.58.46:099][708]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-23.58.46:107][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.23-23.58.46:107][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-23.58.46:107][708]PIE: New page: PIE session: level1 (24 sty 2020, 01:58:46)
+[2020.01.23-23.58.46:107][708]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2020.01.23-23.58.46:110][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002766s)
+[2020.01.23-23.58.46:111][708]LogAIModule: Creating AISystem for world level1
+[2020.01.23-23.58.46:111][708]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2020.01.23-23.58.46:111][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.003909s)
+[2020.01.23-23.58.46:138][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.23-23.58.46:144][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.23-23.58.46:144][708]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.23-23.58.46:144][708]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Name: Głośniki (Realtek(R) Audio)
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Is Default: Yes
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: Channel Order:
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 1: FrontRight
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 4: BackLeft
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 5: BackRight
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 6: SideLeft
+[2020.01.23-23.58.46:156][708]LogAudioMixer: Display: 7: SideRight
+[2020.01.23-23.58.46:253][708]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2020.01.23-23.58.46:255][708]LogInit: FAudioDevice initialized.
+[2020.01.23-23.58.46:262][708]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-23.58.46:263][708]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2020.01.24-00.58.46
+[2020.01.23-23.58.46:264][708]LogWorld: Bringing up level for play took: 0.000537
+[2020.01.23-23.58.46:264][708]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.01.23-23.58.46:266][708]PIE: Play in editor start time for /Game/UEDPIE_0_level1 -0,789
+[2020.01.23-23.58.46:266][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.23-23.58.48:093][816]LogBlueprintUserMessages: [level1_C_8] Hello
+[2020.01.23-23.58.50:092][936]LogBlueprintUserMessages: [level1_C_8] Hellox2
+[2020.01.23-23.58.57:893][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.58.57:893][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.58.57:893][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.23-23.58.57:893][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-23.58.57:893][404]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2020.01.23-23.58.57:893][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.58.57:893][404]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-23.58.57:893][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.58.57:902][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-23.58.57:902][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.23-23.58.57:906][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.23-23.58.57:933][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.23-23.58.57:937][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-23.58.57:940][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.01.23-23.58.58:005][408]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.23-23.59.24:183][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.01.23-23.59.24:427][955]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1_Auto1208A9985406CB20127F4928374AFCF74.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/Autosaves/Game/level1_Auto1.umap'
+[2020.01.23-23.59.24:430][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1' took 0.271
+[2020.01.23-23.59.24:430][955]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2020.01.23-23.59.32:536][423]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
+[2020.01.24-00.00.11:875][676]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.00.11:888][676]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.00.11:888][676]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-00.00.11:888][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.00.12:496][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-00.00.15:997][908]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
+[2020.01.24-00.01.06:659][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-00.01.06:698][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.01.24-00.01.06:866][882]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1A52963114ADF09FF207D498AFC08FCBE.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-00.01.06:883][882]LogFileHelpers: Saving map 'level1' took 0.225
+[2020.01.24-00.01.06:902][882]AssetCheck: New page: Asset Save: level1
+[2020.01.24-00.01.06:902][882]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-00.01.08:052][951]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.01.08:058][951]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.01.08:058][951]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-00.01.08:058][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.01.26:881][ 63]Cmd: STAT FPS
+[2020.01.24-00.01.28:081][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-00.01.43:665][ 58]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
+[2020.01.24-00.04.27:053][581]LogEditorTransaction: Undo Delete current selection
+[2020.01.24-00.08.20:123][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-00.08.20:160][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.01.24-00.08.20:343][ 65]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level1644074064712A209C0FF2D817CA7609B.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-00.08.20:360][ 65]LogFileHelpers: Saving map 'level1' took 0.237
+[2020.01.24-00.08.20:379][ 65]AssetCheck: New page: Asset Save: level1
+[2020.01.24-00.08.20:379][ 65]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-00.18.29:772][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-00.18.29:805][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.01.24-00.18.29:983][762]LogSavePackage: Moving '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Saved/level11A14793B4055D1C63486C7B6DD3D1EFA.tmp' to '../../../../../../Users/ritts/Documents/Unreal Projects/MP1_ElżbietaHawełka/Content/level1.umap'
+[2020.01.24-00.18.30:000][762]LogFileHelpers: Saving map 'level1' took 0.230
+[2020.01.24-00.18.30:021][762]AssetCheck: New page: Asset Save: level1
+[2020.01.24-00.18.30:021][762]LogContentValidation: Display: Validating World /Game/level1.level1
+[2020.01.24-00.18.34:419][ 11]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.18.34:425][ 11]LogSlate: Window 'level1' being destroyed
+[2020.01.24-00.18.34:425][ 11]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-00.18.34:425][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.20.16:002][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.24-00.21.03:283][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-00.21.05:949][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-00.21.05:956][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.24-00.21.05:956][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-00.21.05:956][ 87]PIE: New page: PIE session: level1 (24 sty 2020, 02:21:05)
+[2020.01.24-00.21.05:956][ 87]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2020.01.24-00.21.05:959][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003072s)
+[2020.01.24-00.21.05:960][ 87]LogAIModule: Creating AISystem for world level1
+[2020.01.24-00.21.05:960][ 87]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2020.01.24-00.21.05:960][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004205s)
+[2020.01.24-00.21.05:991][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.24-00.21.05:992][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.24-00.21.05:992][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.24-00.21.05:993][ 87]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.24-00.21.05:993][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Name: Głośniki (Realtek(R) Audio)
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Is Default: Yes
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: Channel Order:
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 1: FrontRight
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 4: BackLeft
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 5: BackRight
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 6: SideLeft
+[2020.01.24-00.21.06:007][ 87]LogAudioMixer: Display: 7: SideRight
+[2020.01.24-00.21.06:317][ 87]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2020.01.24-00.21.06:318][ 87]LogInit: FAudioDevice initialized.
+[2020.01.24-00.21.06:329][ 87]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-00.21.06:331][ 87]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2020.01.24-01.21.06
+[2020.01.24-00.21.06:331][ 87]LogWorld: Bringing up level for play took: 0.000561
+[2020.01.24-00.21.06:331][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.01.24-00.21.06:333][ 87]PIE: Play in editor start time for /Game/UEDPIE_0_level1 1,278
+[2020.01.24-00.21.06:333][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.24-00.21.07:933][183]LogBlueprintUserMessages: [level1_C_12] Hello
+[2020.01.24-00.21.09:933][303]LogBlueprintUserMessages: [level1_C_12] Hellox2
+[2020.01.24-00.21.15:216][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-00.21.15:216][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-00.21.15:216][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.24-00.21.15:216][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-00.21.15:216][619]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2020.01.24-00.21.15:216][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-00.21.15:216][619]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-00.21.15:217][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.21.15:227][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-00.21.15:227][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/level1.level1_C' with ClassGeneratedBy '/Game/level1.level1:PersistentLevel.level1'
+[2020.01.24-00.21.15:231][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.24-00.21.15:255][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.24-00.21.15:260][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-00.21.15:262][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.24-00.21.15:315][622]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.24-00.22.27:727][891]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level1.level1:PersistentLevel.level1
